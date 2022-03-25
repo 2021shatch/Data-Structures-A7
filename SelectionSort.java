@@ -1,5 +1,11 @@
 public class SelectionSort {
-  
+  /**
+ *. Class to implement selection sort algorithm on our deck of cards
+ *. 
+ * 
+ *  @author Sabrina Hatch, Anh Nguyen
+ *. @version Spring 2022
+ */
   public static CardPile sort(CardPile unsorted, SortRecorder record) {
     
     // register the starting configuration with the recorder

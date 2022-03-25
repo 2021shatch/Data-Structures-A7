@@ -1,5 +1,11 @@
 import java.util.ArrayDeque;
-
+/**
+ *. Class to implement merge sort algorithm on our deck of cards
+ *. 
+ * 
+ *  @author Sabrina Hatch, Anh Nguyen
+ *. @version Spring 2022
+ */
 public class MergeSort {
   
   public static CardPile sort(CardPile unsorted, SortRecorder record) {

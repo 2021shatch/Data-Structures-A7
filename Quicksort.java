@@ -1,5 +1,11 @@
 public class Quicksort {
-  
+  /**
+ *. Class to implement quick sort algorithm on our deck of cards
+ *. 
+ * 
+ *  @author Sabrina Hatch, Anh Nguyen
+ *. @version Spring 2022
+ */
   public static CardPile sort(CardPile unsorted, SortRecorder record) {
 
     // ***********************************************************

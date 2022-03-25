@@ -1,3 +1,10 @@
+/**
+ *. Class to implement insertion sort algorithm on our deck of cards
+ *. 
+ * 
+ *  @author Sabrina Hatch, Anh Nguyen
+ *. @version Spring 2022
+ */
 public class InsertionSort {
   
   public static CardPile sort(CardPile unsorted, SortRecorder record) {
